@@ -14,3 +14,13 @@ Memory: Detailed RAM usage (Total, Used, Available) in GB.
 Disk Usage: Check available space and health for any specific path or drive.
 
 Uptime: Get the exact date and time of the last system boot.
+
+
+##
+run using
+
+
+
+```bash
+uv run client.py
+```bash
